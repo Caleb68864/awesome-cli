@@ -38,7 +38,3 @@ This repository and list of things is created under the terms of
 
 (c) 2016 Matthias Beyer
 
-# ./README.md
-
-* Homepage: _insert homepage link here_
-
