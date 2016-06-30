@@ -15,7 +15,7 @@ files in this folder, we collect information.
 
 Standard files per directory:
 
-* index.md - The "Home"-page for the tool, list basic information here
+* README.md - The "Home"-page for the tool, list basic information here
 * external.md - A list of external resources not available in this repository.
   Explain each resource!
 
