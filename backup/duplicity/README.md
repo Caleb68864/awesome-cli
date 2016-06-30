@@ -1,4 +1,4 @@
 # duplicity
 
-* Homepage: _insert homepage link here_
+* Homepage: http://duplicity.nongnu.org/
 
