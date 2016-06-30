@@ -1,4 +1,4 @@
 # iptraf
 
-* Homepage: _insert homepage link here_
+* Homepage: http://iptraf.seul.org/
 
