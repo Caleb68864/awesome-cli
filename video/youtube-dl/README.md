@@ -1,6 +1,6 @@
 # youtube-dl
 
-##### Homepage: https://rg3.github.io/youtube-dl/
+* Homepage: https://rg3.github.io/youtube-dl/
 
 youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. 
 It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific. 
