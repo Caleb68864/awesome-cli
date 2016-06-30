@@ -1,4 +1,4 @@
-## youtube-dl
+# youtube-dl
 
 ##### Homepage: https://rg3.github.io/youtube-dl/
 
