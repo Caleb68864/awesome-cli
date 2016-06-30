@@ -1,4 +1,4 @@
-## imguralbum
+# imguralbum
 
 * Homepage: https://github.com/alexgisby/imgur-album-downloader
 
