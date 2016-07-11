@@ -2,6 +2,7 @@
 
 * Homepage: https://github.com/alexgisby/imgur-album-downloader
 
+## Description
 Tool for downloading Imgur Albums with python
 
 * Install for Linux
