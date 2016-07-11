@@ -1,4 +1,16 @@
 # pianobar
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/PromyLOPh/pianobar
 
+## Description
+pianobar is a console client for the personalized web radio [Pandora]
+([http://www.pandora.com](http://www.pandora.com)).
+
+###Features
+
+* Play and manage (create, add more music, delete, rename, ...) your stations.
+* Rate played songs and let pandora explain why they have been selected.
+* Show upcoming songs/song history.
+* Configure keybindings.
+* last.fm scrobbling support (external application)
+* Proxy support for listeners outside the USA.
